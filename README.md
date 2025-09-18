@@ -1,2 +1,2 @@
-# mdh
-MyDevartHelp
+# presta
+ApiPrestaShopMyDevartHelp
