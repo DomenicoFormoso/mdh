@@ -1,2 +1,2 @@
 # presta
-ApiPrestaShopMyDevartHelp
+ApiPrestaShop
